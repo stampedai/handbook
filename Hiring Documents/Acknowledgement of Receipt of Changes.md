@@ -23,5 +23,5 @@ Signature: ________________________
 ***
 
 
-## [Stamped Employee Handbook **QTR YR**](https://getclef.com/handbook/QTR-YR)
-## [Changes this Quarter](https://getclef.com/handbook/changelog/QTR-YR)
+## [Stamped Employee Handbook **QTR YR**](https://stamped.ai/handbook/QTR-YR)
+## [Changes this Quarter](https://stamped.ai/handbook/changelog/QTR-YR)

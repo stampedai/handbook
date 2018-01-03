@@ -4,7 +4,7 @@ Stamped is committed to creating a safe work environment that is free of threats
 
 Stamped has an open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with the founder you report to as soon as possible. If for any reason you don’t feel comfortable discussing it with them, feel free to raise the issue with any founder.
 
-Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to B (b@getclef.com) or any of the Stamped founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
+Any employee who witnesses or is subject to inappropriate conduct in the workplace can report it to B (b@stamped.ai) or any of the Stamped founders. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
 Once a complaint has been made, the founders will meet and determine how to handle it. If one or more of the founders is the subject of the complaint, the remaining founder(s) will determine how to handle it. Any reports of a founder engaging in harassment or gross misconduct will trigger an outside investigator. With the employee’s permission, we will conduct a complete and impartial investigation, which may involve an outside investigator in serious cases. All complaints will be handled as confidentially as possible. When the investigation is complete, the company will take corrective action if appropriate. 
 
