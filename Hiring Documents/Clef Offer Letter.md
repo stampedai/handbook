@@ -42,7 +42,7 @@ Stamped, Inc.
 
 _____________________
 
-B Byrne
+Simon Langlois
 ```
 
 ## Acceptance

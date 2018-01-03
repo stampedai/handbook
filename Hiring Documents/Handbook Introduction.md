@@ -15,7 +15,7 @@ As a small company, we anticipate changes will be made to this handbook in the f
 
 _____________________________
 
-B Byrne
+Simon Langlois
 
 CEO of Stamped
 ```
