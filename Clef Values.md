@@ -1,4 +1,4 @@
-# Clef Core Values
+# Stamped Core Values
 
 ## Be better today than yesterday.
 

@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# Stamped Observed Holiday List
 
 <table>
   <tr>
