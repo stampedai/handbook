@@ -1,6 +1,6 @@
 # Guide to Your Equity
 
-There are currently **4,662,658** shares of Stamped common stock outstanding.
+There are currently **[TODO]** shares of Stamped common stock outstanding.
 
 Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.
 
@@ -20,7 +20,7 @@ If we gave you $10,000 worth of Stamped stock today, you would have to pay thous
 
 Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. If you had a basic 2 year vesting period, you would own a quarter of your stock after 6 months, half of your stock after a year, and all of it after 2 years.
 
-The industry standard right now is 4 years, but at Stamped, employees’ stock vests over 6 years. We offer much higher equity grants than the industry standard (about 2x in most cases), but it takes longer to earn them. This works out so that employees always come out ahead, even if they leave before their stock has fully vested, but helps us communicate that we’re looking for employees who want to build longer careers at Stamped.
+The industry standard right now is 4 years, but at Stamped, employees’ stock vests over [TODO] years. We offer much higher equity grants than the industry standard (about 2x in most cases), but it takes longer to earn them. This works out so that employees always come out ahead, even if they leave before their stock has fully vested, but helps us communicate that we’re looking for employees who want to build longer careers at Stamped.
 
 Vesting happens on a monthly basis (so you vest 1/72 of your options each month), but many vesting schedules include a cliff.
 
@@ -42,7 +42,7 @@ Investor dilution won’t affect the value of your stock, but the valuation that
 
 You will usually only want to exercise the stock when you have the opportunity to sell it for a higher price than you are buying it for or when it is expiring.
 
-Your stock options expire 10 years after they were issued. You have 7 years to exercise your options after you stop working at Stamped, but by law the options only count as ISOs for 90 days after you stop working. Once those 90 days are up, the options count as non-qualified stock options, so they count as income and are subject to income tax when you exercise them.
+Your stock options expire [TODO] years after they were issued. You have [TODO] years to exercise your options after you stop working at Stamped, but by law the options only count as ISOs for 90 days after you stop working. Once those 90 days are up, the options count as non-qualified stock options, so they count as income and are subject to income tax when you exercise them.
 
 Traditionally, employers have made options expire quickly after employees stop working at the company because the company also has to pay tax on the options when they are non-qualified and considered income. However, this means that many cannot afford to exercise their options and so either a) leave the company and lose the equity they worked hard for or b) stay at the company until they can afford it (this situation is often referred to as "golden handcuffs"). At Stamped, we want our employees to keep the equity they earn, and we don't want to keep anyone working here if they're not happy, so we give employees the option to exercise their options up to 7 years after they leave Stamped.
 
@@ -72,7 +72,7 @@ When Stamped raises outside capital, investors will buy a form of Preferred Stoc
 
 ## Outstanding Convertible Notes
 
-Stamped has raised $1,858,555 to date, all as convertible notes.
+Stamped has raised $[TODO] to date, all as convertible notes.
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early, and usually comes in 2 forms: a discount and a cap.
 
@@ -80,8 +80,6 @@ The discount is a fixed percentage (20% for Stamped) that the investors will get
 
 For Stamped’s fundraise:
 
-$175,000 was raised on notes with a cap of $5m
+- [TODO]
 
-$1,683,555 was raised on notes with a cap of $6m
-
-Anyone is always welcome to ask B, our CEO, any questions they have about their options, Stamped’s fundraising, or anything else related to equity at Stamped. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask Simon, our CEO, any questions they have about their options, Stamped’s fundraising, or anything else related to equity at Stamped. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.

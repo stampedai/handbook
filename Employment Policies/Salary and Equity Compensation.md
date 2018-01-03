@@ -1,6 +1,6 @@
 #Salary and Equity Compensation
 
-The following policy will apply to compensation offers for the first 10 employees at Stamped. After we have hired 10 people, we will likely revise the salary rubric and equity amount.
+The following policy will apply to compensation offers for the first [TODO] employees at Stamped. After we have hired [TODO] people, we will likely revise the salary rubric and equity amount.
 
 ##Salary
 

@@ -2,13 +2,7 @@
 
 Working on Stamped, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Stamped. Those metrics might include:
 
-* The level of security we are able to offer customers
-
-* The speed of each login
-
-* The ratio of time logged in with Stamped to time managing Stamped
-
-* The number of taps between each login
+* [TODO]
 
 For the first two years of Stamped’s existence, we often found ourselves following our guts in the wrong direction on each of these metrics but were unable to articulate why. We looked at other solutions that out-performed us in each of these categories and worried about whether we were overlooking optimizations that would make Stamped a better product. We kept making decisions that felt right, but weren’t backed up by the core metrics we "should" have been measuring.
 
