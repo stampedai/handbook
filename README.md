@@ -8,15 +8,11 @@ We wanted to put what we've learned into practice, so we decided to write our ow
 
 This repository contains all of the policies that we use at Stamped. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.([mccv](github.com/mccv) has created [a templatized version of the Stamped handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own)
-
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
-If these policies sound like a place where you want to work, check out our jobs postings at [stamped.ai/about](https://stamped.ai/about).
+If these policies sound like a place where you want to work, check out our jobs postings at [stamped.ai/careers](https://stamped.ai/careers).
 
-— [B](https://twitter.com/brennenbyrne)
-
-CEO of Stamped
+— Simon & Philippe
 
 ***
 
@@ -70,18 +66,6 @@ CEO of Stamped
 * [Other Protected Absences](https://github.com/stampedai/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
-
 # Acknowledgements
 
-We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
-
-* [Angel Lewis](http://www.allemployerlaw.com/)
-* [Ashe Dryden](http://www.ashedryden.com/)
-* [B](https://twitter.com/brennenbyrne)
-* [Mark Hudnall](https://twitter.com/landakram)
-* [Jesse Pollak](https://twitter.com/jessepollak)
-* [Darrell Jones](https://twitter.com/darrelljonesiii)
-* [Grace Wong](https://twitter.com/gwongz)
-* [Julie Horvath](https://twitter.com/nrrrdcore)
-* [Ikka Riley](https://twitter.com/isicalynn)
-* [Erica Baker](https://twitter.com/ericajoy)
+This handbook is based off [Clef's amazing work] (https://github.com/clef/handbook).
