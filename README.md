@@ -68,4 +68,4 @@ If these policies sound like a place where you want to work, check out our jobs 
 
 # Acknowledgements
 
-This handbook is based off [Clef's amazing work] (https://github.com/clef/handbook).
+This handbook is based off [Clef's amazing work](https://github.com/clef/handbook).
