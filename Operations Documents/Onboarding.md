@@ -32,13 +32,9 @@ After a candidate accepts an offer to join Stamped, there are a few things that 
 
 3. Background reading
 
-    6. [A talk Jesse gave about cryptography](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
+    6. [TODO]
 
-    7. [A pretty good article about the public key crypto Stamped uses](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
-
-    8. [A great explanation of Bitcoin](http://priceonomics.com/post/47135650437/are-bitcoins-the-future)
-
-4. Payroll, benefits, etc. set up -- introduce to Patricia, who will manage this process
+4. Payroll, benefits, etc. set up
 
 5. Put 3 events on whole team’s calendar -- NAME’s First Day, Team Lunch to welcome NAME, and Team Celebration of NAME’s First Day.
 
@@ -50,7 +46,7 @@ Some guidelines for the first day:
 
 * The day should start at 10:00 — this lowers the commute stress and gives us time to set up their desk and get the team ready for them.
 
-* The new employee should arrive to a desk with their new computer, monitor, keyboard, mouse, etc. set up and ready for them. So far, we have opened the computer, updated software and installed tools, then reboxed it (because the unboxing process of a new computer is nice, but this helps save them annoying time on the first day). There should also be a nice note signed by the team, a copy of Daring Greatly, and anything else that feels welcoming or personal to them.
+* The new employee should arrive to a desk with their new computer, monitor, keyboard, mouse, etc. set up and ready for them. So far, we have opened the computer, updated software and installed tools, then reboxed it (because the unboxing process of a new computer is nice, but this helps save them annoying time on the first day). There should also be a nice note signed by the team, a copy of [TODO], and anything else that feels welcoming or personal to them.
 
 * Everyone in the office should know that they are starting, their name, their gender pronouns, and what they’re doing. There is one person in charge of the onboarding process, but it is everyone’s responsibility individually to make the new employee feel welcome.
 
