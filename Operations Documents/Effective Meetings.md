@@ -10,7 +10,7 @@ If you're leading a meeting, it's your responsibility to start the meeting on ti
 
 ### Meetings happen in regular hours
 
-All team members should make themselves available for face-to-face meetings between 10:30am-1:00p Pacific Time, as long as they are scheduled at least 24 hours in advance. If a meeting needs to happen outside of these hours, the meeting organizer should scheduled it a week in advance. 
+All team members should make themselves available for face-to-face meetings between 10:30am-1:00p Eastern Time, as long as they are scheduled at least 24 hours in advance. If a meeting needs to happen outside of these hours, the meeting organizer should scheduled it a week in advance.
 
 ### Meetings should have a video option
 
