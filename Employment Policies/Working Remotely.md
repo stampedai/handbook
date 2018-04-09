@@ -24,7 +24,7 @@ When we work remotely, it's our responsibility to accept the benefits graciously
 
 Even when we aren't in the office, our teammates are still counting on us and it is our responsibility to make sure we are exceeding their expectations.
 
-At the same time, it is the responsibility of workers in the office to reasonably accommodate remote workers. This means being willing to schedule meetings in light of timezone differences and to manage expectations around immediate feedback.  
+At the same time, it is the responsibility of workers in the office to reasonably accommodate remote workers. This means being willing to schedule meetings in light of timezone differences and to manage expectations around immediate feedback.
 
 The guidelines in this document (and the handbook at large) give us tools to make remote work easier, but tooling is only a small part of the solution. Every employee needs to complement these tools with extra work to make remote work effective for the employee working remotely and the rest of our team.
 
@@ -82,7 +82,7 @@ This is a time where employees can voice concerns about constraints that are lim
 
 #### Dedicated Retrospectives
 
-Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their manager for when they get back.
+Before an employee works remotely for an extended period of time (defined below), they should schedule a retrospective with their manager for when they get back.
 
 This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Stamped.
 

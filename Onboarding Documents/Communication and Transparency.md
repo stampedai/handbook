@@ -17,7 +17,7 @@ This makes it easy to keep in the loop on projects and also keeps everyone at St
 
 ### Pro-active checkins
 
-When we're all in the office, it's easy to see when a teammate is around or available. When an individual is out of the office, this visibility immediately drops to 0.  When we're working remotely, it's our responsibility to let our teammates know when we're around and available. 
+When we're all in the office, it's easy to see when a teammate is around or available. When an individual is out of the office, this visibility immediately drops to 0. When we're working remotely, it's our responsibility to let our teammates know when we're around and available. 
 
 **Doing this is as easy as posting a message in Slack to say when you drop in or leave.**
 
@@ -44,7 +44,7 @@ There are 4 states in which a teammate can be in on Slack:
 1. *Active (green)*. Similar to when someone is sitting at their desk in the office, they are considered available and can be expected to respond in the range of a few minutes to an hour.
 2. *Do not disturb (green)*. This teammate is at their computer, but focusing. Expect a response when they are done with whatever they are focusing on, but don't wait for them.
 3. *Do not disturb (gray). *This teammate is away from their computer and off work. Expect a response the next work day.
-4. *Away*. This teammate is off work or temporarily away. Check the #office channel — when a user goes away, whether it's during their work day or when the day is ending, they should post a message letting the team know they are stepping out. If they posted a message in #office saying they were stepping away but coming back, expect a response when they get back. If they posted a message saying they were done for the day, you should expect a response the next work day. 
+4. *Away*. This teammate is off work or temporarily away. Check the #office channel — when a user goes away, whether it's during their work day or when the day is ending, they should post a message letting the team know they are stepping out. If they posted a message in #office saying they were stepping away but coming back, expect a response when they get back. If they posted a message saying they were done for the day, you should expect a response the next work day.
 
 Obviously, edge cases exist, but it's important that on both ends of our communication (both asking and responding) we uphold these expectations so that everyone on our team can plan their work effectively.
 

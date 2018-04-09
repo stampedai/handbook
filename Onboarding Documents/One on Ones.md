@@ -24,4 +24,4 @@ It’s useful to take notes during the meeting, so that you can ask about how th
 
 If an employee is having a problem with a coworker, make sure to ask before you intervene. In some cases, intervention will make the complainant’s work situation worse. Always defer to their needs and aim for their goal for resolution.
 
-When you do act, remember to follow up and talk about the resolution. This gives you a chance to show that you take their problems seriously and also opens the opportunity to talk about the potential causes of the problem and how to avoid them in the future or improve the way they’re handled.  
+When you do act, remember to follow up and talk about the resolution. This gives you a chance to show that you take their problems seriously and also opens the opportunity to talk about the potential causes of the problem and how to avoid them in the future or improve the way they’re handled.

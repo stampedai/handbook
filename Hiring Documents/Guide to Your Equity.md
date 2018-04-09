@@ -76,7 +76,7 @@ Stamped has raised $[TODO] to date, all as convertible notes.
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early, and usually comes in 2 forms: a discount and a cap.
 
-The discount is a fixed percentage (20% for Stamped) that the investors will get when the debt is converted into equity. The cap is a maximum valuation that the first investors will have to pay for the stock.  The debt converts to stock at whichever is lower: 80% of the price of the next round or the valuation cap.
+The discount is a fixed percentage (20% for Stamped) that the investors will get when the debt is converted into equity. The cap is a maximum valuation that the first investors will have to pay for the stock. The debt converts to stock at whichever is lower: 80% of the price of the next round or the valuation cap.
 
 For Stamped’s fundraise:
 
