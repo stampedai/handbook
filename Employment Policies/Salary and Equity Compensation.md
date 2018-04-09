@@ -35,7 +35,7 @@ The offer also comes with the option to take $5k less salary in exchange for ~.1
 
 At the beginning of each year (in January), we will adjust this rubric to make sure it stays at market rate.
 
-Note: The three Stamped founders' salaries do not follow this rubric and are all $50k per year.
+Note: The two Stamped founders' salaries do not follow this rubric and are all $50k per year.
 
 ##Equity
 
