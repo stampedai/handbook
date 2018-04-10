@@ -1,6 +1,6 @@
 # Product Manifesto
 
-We're rethinking a century-old process. Stamped exists because our industry has had a hard time catching up with innovation. Let's alway remember that.
+We're rethinking a century-old process. Stamped exists because our industry has had a hard time catching up with innovation. Let's always remember that.
 
 Therefore **at Stamped, our core product value is clarity.**
 
