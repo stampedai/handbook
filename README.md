@@ -19,7 +19,7 @@ If these policies sound like a place where you want to work, check out our jobs 
 
 ## Introduction
 * [Mission Statement](https://github.com/stampedai/handbook/blob/master/Mission%20Statement.md)
-* [Stamped Values](https://github.com/stampedai/handbook/blob/master/Stamped%20Values.md)
+* [Stamped Values](https://github.com/stampedai/handbook/blob/master/Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/stampedai/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
@@ -33,7 +33,7 @@ If these policies sound like a place where you want to work, check out our jobs 
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Stamped Offer Letter](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Stamped%20Offer%20Letter.md)
+* [Stamped Offer Letter](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
