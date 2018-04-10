@@ -35,7 +35,7 @@ If you're working remotely or from home, you should put a calendar event indicat
 
 #### Slack Names
 
-Slack names are an easy way to communicate where you are located and when you are away from your desk. If you are working from home, taking PTO, or sick, you should update your Slack last name to reflect name to reflect this.
+Slack names are an easy way to communicate where you are located and when you are away from your desk. If you are working from home, taking PTO, or sick, you should update your Slack last name to reflect this.
 
 #### Slack Status
 
