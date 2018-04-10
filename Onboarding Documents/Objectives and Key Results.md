@@ -6,7 +6,7 @@ Objectives and Key Results (OKRs) is a method for defining and keeping track of 
 
 Objectives are the high level achievements you are shooting for, like:
 
-* Grow our audience in the Bitcoin community
+* Grow our audience in the Business community
 
 * Increase engagement with the content we produce
 
