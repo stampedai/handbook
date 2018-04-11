@@ -2,7 +2,7 @@
 
 Hey! Welcome to the Stamped team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Stamped works and how we work together.
 
-At Stamped, we’re trying to build an inclusive and value-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Stamped handbook!).
+At Stamped, we’re trying to build an inclusive and value-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please open an [Issue](https://github.com/stampedai/handbook/issues) and start the discussion.
 
 ## Your First Day
 
