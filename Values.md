@@ -6,7 +6,7 @@ Being better is more important than being the "best", because "best" means compl
 
 ## Treat others the way they'd like to be treated.
 
-Our customers and teammates have different needs from our own, so we must consider their perspectives to communicate effectively. We work best together when we empathize with one another, and we create the best product when we understand the people we are building for.
+Our clients and teammates have different needs from our own, so we must consider their perspectives to communicate effectively. We work best together when we empathize with one another, and we create the best product when we understand the people we are building for.
 
 ## Fight the default of exclusion.
 
