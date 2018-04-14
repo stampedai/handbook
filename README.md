@@ -33,13 +33,13 @@ If these policies sound like a place where you want to work, check out our jobs 
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Stamped Offer Letter](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Offer%20Letter.md)
+* [Offer Letter](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Stamped](https://github.com/stampedai/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Stamped.md)
+* [Welcome](https://github.com/stampedai/handbook/blob/master/Onboarding%20Documents/Welcome.md)
 * [Direct Reports](https://github.com/stampedai/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Communication and Transparency](https://github.com/stampedai/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 * [Objectives and Key Results](https://github.com/stampedai/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
