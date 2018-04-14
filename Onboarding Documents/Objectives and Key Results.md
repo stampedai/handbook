@@ -40,7 +40,7 @@ For every quarter, one goal should always be a learning or improvement objective
 
 Every employee should keep track of their OKRs in their own Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.
 
-OKRS should be talked about every week in 1:1s to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
+OKRS should be talked about every month in 1:1s to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
 
 ## Scoring and Evaluating OKRs
 
