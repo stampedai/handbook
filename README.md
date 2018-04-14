@@ -48,6 +48,7 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Effective Meetings](https://github.com/stampedai/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ## Operations Documents
+* [Office](https://github.com/stampedai/handbook/blob/master/Operations%20Documents/Office.md)
 * [Sourcing Candidates](https://github.com/stampedai/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
 * [Interview Process](https://github.com/stampedai/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 * [Budgeting](https://github.com/stampedai/handbook/blob/master/Operations%20Documents/Budgeting.md)
