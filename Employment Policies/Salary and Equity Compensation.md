@@ -46,3 +46,8 @@ These equity grants are larger than industry standard, but also vest over a long
 At Stamped, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Stamped before the 6 years, they will still own more of Stamped than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
 All new employees should also check out our [Guide to Your Equity](https://github.com/stampedai/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Stamped stock options.
+
+## Variable compensation
+Every employee will have access to a performance bonus reflecting its individual performance during the year. Performance will be accessed every six months for the periods ending on June 30th, and December 31st.
+
+In order to support our fast growth mindset, every employee will have access to a 10% commission for any successful referral. The business world is surrounding all of us and anyone within the company should have the right to promote it and get the reward for promoting it well.
