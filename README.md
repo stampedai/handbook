@@ -12,7 +12,7 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 If these policies sound like a place where you want to work, check out our jobs postings at [stamped.ai/careers](https://stamped.ai/careers).
 
-— Simon & Philippe
+— Philippe & Simon
 
 ***
 
